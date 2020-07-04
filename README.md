@@ -1,1 +1,1 @@
-react很绕
+react-redux
